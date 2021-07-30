@@ -1,0 +1,54 @@
+.subcription{
+    color: grey;
+    padding: 10px 0px;
+    font-size: 16px;
+}
+.container{
+    /* margin: 10px; */
+    padding: 20px;
+    width: 200px;
+    /* border: 1px solid orange; */
+    /* overflow: scroll; */
+    
+    
+}
+
+.dot{
+    width: 10px !important;
+    height: 10px !important;
+    color: rgb(0, 140, 255) !important;
+}
+.expand{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.expand>p{
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+
+}
+.more{
+    color: grey;
+    margin-top: 5px;
+}
+
+.moreYoutube{
+    color: grey;
+    padding-top: 20px;
+    font-size: 16px;
+}
+
+.footer{
+    color: grey;
+    margin-bottom: 50px;
+    font-size: 13px;
+}
+.footer>p{
+   font-weight: 500;
+   cursor: pointer;
+}
+.footer>span{
+    cursor: pointer;
+}

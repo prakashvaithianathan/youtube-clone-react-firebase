@@ -1,0 +1,25 @@
+.container{
+    display:flex;
+    align-items: center;
+    color: white;
+    gap: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 10px 0;
+    position: relative;
+    
+}
+.container:hover{
+    cursor: pointer;
+    background:rgba(128, 128, 128, 0.61);
+}
+.avatar{
+    width: 25px;
+    height: 25px;
+}
+
+.dot{
+    position:absolute;
+    right: 5px;
+    
+}
